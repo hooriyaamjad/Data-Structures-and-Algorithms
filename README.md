@@ -1,4 +1,4 @@
-# ENSF338_FinalProject
+# Data Structures and Algorithms
 
 Team Members:
 Hooriya Amjad: 30141172
